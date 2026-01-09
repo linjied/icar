@@ -1,0 +1,5 @@
+{
+  "name": "极点车队 - 智能车辆管理系统",
+  "description": "一个全面的车辆管理系统，提供实时跟踪、维护日志、燃油效率分析和基于 Gemini AI 的智能车队洞察。",
+  "requestFramePermissions": []
+}
